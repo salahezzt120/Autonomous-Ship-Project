@@ -1,6 +1,6 @@
 # Autonomous Ship Project and Radar System
 
-![Project Banner](path/to/your/image.png)
+![Project Banner](banner.png)
 
 ## 📋 Project Description
 This project involves the design and construction of two components:
