@@ -57,4 +57,4 @@ This project involves the design and construction of two components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Autonomous-Ship-Radar-System.git
+   https://github.com/salahezzt120/Autonomous-Ship-Project.git
